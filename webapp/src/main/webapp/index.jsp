@@ -20,7 +20,7 @@
 </head>
 <body>
 <div class="header">
-  <h1>Avinash Sample Java Website</h1>
+  <h1>Chibuzor Ndeke Sample Java Website</h1>
   <p>Hello from Pittsburgh,PA!</p>
 </div>
 </body>
