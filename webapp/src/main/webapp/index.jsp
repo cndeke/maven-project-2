@@ -21,7 +21,7 @@
 <body>
 <div class="header">
   <h1>Avinash Sample Java Website</h1>
-  <p>Hello JJTech World!</p>
+  <p>Hello from Pittsburgh,PA!</p>
 </div>
 </body>
 </html>
